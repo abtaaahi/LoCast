@@ -335,7 +335,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     private void fetchWeatherData(double latitude, double longitude) {
-        String apiKey = "80034495d58fc3db348f75354755f6e6"; // OpenWeatherMap API key
+        String apiKey = "80034495************75354755f6e6"; // OpenWeatherMap API key
         String apiUrl = "https://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&appid=" + apiKey + "&units=metric";
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
                 (Request.Method.GET, apiUrl, null, new Response.Listener<JSONObject>() {
