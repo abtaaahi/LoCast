@@ -30,13 +30,13 @@ OpenWeather API: https://openweathermap.org/
 
 #### HTTP Request 
 
-```http
+```
   implementation ("com.android.volley:volley:1.2.0")
 ```
 
 #### Get item
 
-```http
+```
   String apiKey = "abcdef"; // OpenWeatherMap API key
         String apiUrl = "https://api.openweathermap.org/data/2.5/weather?lat=" + latitude + "&lon=" + longitude + "&appid=" + apiKey + "&units=metric";
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
