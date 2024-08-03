@@ -13,7 +13,7 @@ This project employs a user-centric approach to deliver real-time
 weather information. The development for the IoT-based location 
 weather app encompasses a systematic approach covering project 
 planning, research, design, development, testing, deployment, and 
-iteration. The methodology leverages a combination of locationbased services and user interaction to provide hyper-localized 
+iteration. The methodology leverages a combination of location based services and user interaction to provide hyper-localized 
 weather data. The application utilizes GPS sensors for initial location 
 acquisition, while a search bar and Bangla language support cater to 
 user-specified locations. Fingerprint authentication offers a secure 
