@@ -1,4 +1,3 @@
-
 # LoCast - Location & Forecast
 
 LoCast is an Android application that provides users with real-time 
@@ -22,11 +21,14 @@ access to reliable weather information. Finally, the app integrates a
 real-time date and clock for seamless timekeeping alongside weather 
 updates.
 
+## Demo Video
+
+[![LoCast Demo Video](https://img.youtube.com/vi/sgexZ-4dxT8/0.jpg)](https://youtu.be/sgexZ-4dxT8?si=CIywpdbzGD-eGAcq)
+
+## API Reference
 
 References:
 OpenWeather API: https://openweathermap.org/
-
-## API Reference
 
 #### HTTP Request 
 
